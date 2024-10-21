@@ -1,5 +1,3 @@
 # Live Link : 
 
-# [https://peddy-path-to-adoption.netlify.app/](https://peddy-path-to-adoption.netlify.app/)
-
-# [https://peddy-path-to-adoption.surge.sh](https://peddy-path-to-adoption.surge.sh)
+# [https://spectacular-duckanoo-ffe36c.netlify.app/](https://spectacular-duckanoo-ffe36c.netlify.app/)
